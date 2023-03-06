@@ -12,8 +12,7 @@ in the answering queue.
 - Sales has a triangular distribution with parameters (4, 15 and 45).
 - In support, the expert's secondary message is characterized by a uniform distribution in the interval (0.5 and 0.1).
 
-![20230306_192515_1510838713](https://user-images.githubusercontent.com/126339266/223163148-7618bb3b-b9c2-4c48-85a4-607de5aa4a3d.jpg)
-
+![Screenshot (532)](https://user-images.githubusercontent.com/126339266/223163443-aedfa045-a8b3-4d51-8dcf-4d91be040d4d.png)
 
 In this project, the above center should be simulated with the mentioned conditions. The duration of simulation is 1000 minutes and the system will be closed after 1000
 minutes. The following items have been checked and calculated:
